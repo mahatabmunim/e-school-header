@@ -1,0 +1,46 @@
+/* font-family start  */
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* font-family end */
+/* common css strat  */
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size:16px ;
+    font-weight:400 ;
+    color: #000000;
+}
+/* common css end */
+/* header start  */
+header{
+    padding: 15px 0;
+    background-color: #F0FFF0;
+}
+.cnav{}
+.logo {}
+.manu ul li a{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000 !important;
+    line-height: 24px;
+    padding: 0 20px !important;
+}
+.btn_cm{
+    background-color: #21B573;
+    border-radius: 33px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    line-height: 19px;
+}
+.btn_sign{
+    margin-left: 10px;
+    padding: 12px 28px;
+}
+.btn_cm:hover, .btn_cm:active{
+    background-color: #FD511A;
+    color: #FFFFFF;
+}
+.btn_cm:active{
+    background-color: #FD511A !important;
+    color: #FFFFFF !important;
+}
+/* header end */

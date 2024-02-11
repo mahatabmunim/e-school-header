@@ -1,0 +1,11 @@
+text color 
+        black - #000000
+        as black - #413960
+        orrange - #FD511A
+bg color 
+        as green - #F0FFF0
+        green - #21B573
+fonts family 
+        poppins 400 500 700 font-family: 'Poppins', sans-serif;
+        robo 400 font-family: 'Roboto', sans-serif;
+
